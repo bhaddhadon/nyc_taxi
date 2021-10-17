@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 021ab56 (resolve conflict readme)
-=======
->>>>>>> 042cd28 (add trip data)
 # nyc_taxi
 
 Questions
@@ -17,15 +9,3 @@ c. If you were a taxi owner, how would you maximize your earnings in a day?
 d. If you were a taxi owner, how would you minimize your work time while retaining the average
 wages earned by a typical taxi in the dataset?
 e. If you run a taxi company with 10 taxis, how would you maximize your earnings?
-<<<<<<< HEAD
-=======
-# nyc_taxi
->>>>>>> 837201a (Initial commit)
-<<<<<<< HEAD
-=======
-# nyc_taxi
->>>>>>> 837201a (Initial commit)
-=======
->>>>>>> 021ab56 (resolve conflict readme)
-=======
->>>>>>> 042cd28 (add trip data)
