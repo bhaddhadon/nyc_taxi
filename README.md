@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 021ab56 (resolve conflict readme)
 # nyc_taxi
 
 Questions
@@ -14,6 +17,9 @@ e. If you run a taxi company with 10 taxis, how would you maximize your earnings
 =======
 # nyc_taxi
 >>>>>>> 837201a (Initial commit)
+<<<<<<< HEAD
 =======
 # nyc_taxi
 >>>>>>> 837201a (Initial commit)
+=======
+>>>>>>> 021ab56 (resolve conflict readme)
